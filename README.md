@@ -14,7 +14,7 @@ Docker for Android SDK 21 with preinstalled build tools and emulator image
   patcher;v4                                  | 1       | SDK Patch Applier v4                       | patcher/v4/
   platform-tools                              | 27.0.1  | Android SDK Platform-Tools                 | platform-tools/
   platforms;android-21                        | 2       | Android SDK Platform 21                    | platforms/android-21/
-  system-images;android-21;google_apis;x86_64 | 19      | Google APIs Intel x86 Atom_64 System Image | system-images/android-21/google_apis/x86_64/
+  system-images;android-21;google_apis;x86_64 | 25      | Google APIs Intel x86 Atom_64 System Image | system-images/android-21/google_apis/x86_64/
   tools                                       | 26.1.1  | Android SDK Tools                          | tools/
 ```
 
