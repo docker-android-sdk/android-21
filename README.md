@@ -39,7 +39,7 @@ Docker for Android SDK 21 with preinstalled build tools and emulator image
   ```bash
   # check installed packages
   $ docker run -it --rm androidsdk/android-21:latest sdkmanager --list
-  # create and run emulator
+  # list existing emulators
   $ docker run -it --rm androidsdk/android-21:latest avdmanager list avd
   # You can also run other Android platform tools, which are all added to the PATH environment variable
   ```
